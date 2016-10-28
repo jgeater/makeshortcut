@@ -1,0 +1,8 @@
+c:\users\jgeau\documents\visual studio 2015\Projects\MakeShortcut\MakeShortcut\bin\Debug\MakeShortcut.exe.config
+c:\users\jgeau\documents\visual studio 2015\Projects\MakeShortcut\MakeShortcut\bin\Debug\MakeShortcut.exe
+c:\users\jgeau\documents\visual studio 2015\Projects\MakeShortcut\MakeShortcut\bin\Debug\MakeShortcut.pdb
+c:\users\jgeau\documents\visual studio 2015\Projects\MakeShortcut\MakeShortcut\obj\Debug\MakeShortcut.csprojResolveAssemblyReference.cache
+c:\users\jgeau\documents\visual studio 2015\Projects\MakeShortcut\MakeShortcut\obj\Debug\Interop.IWshRuntimeLibrary.dll
+c:\users\jgeau\documents\visual studio 2015\Projects\MakeShortcut\MakeShortcut\obj\Debug\MakeShortcut.csproj.ResolveComReference.cache
+c:\users\jgeau\documents\visual studio 2015\Projects\MakeShortcut\MakeShortcut\obj\Debug\MakeShortcut.exe
+c:\users\jgeau\documents\visual studio 2015\Projects\MakeShortcut\MakeShortcut\obj\Debug\MakeShortcut.pdb

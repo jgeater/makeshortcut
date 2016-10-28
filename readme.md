@@ -1,0 +1,1 @@
+Creates a shortcut on the all users desktop to a desired location
